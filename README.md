@@ -1,3 +1,3 @@
 # digital-humanities
 
-[Sentiment Analysis Research with the HathiTrust Digital Library](https://github.com/telicity13/digital-humanities/blob/main/sentiment_analysis_research_hathitrust.html)
+[Sentiment Analysis Research with the HathiTrust Digital Library](https://telicity13.github.io/digital-humanities/sentiment_analysis_research_hathitrust.html)
